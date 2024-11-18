@@ -2,6 +2,8 @@ package org.example.products.trousers;
 
 import org.example.products.Trousers;
 
+//autor Imanol Sanchez Taneco
+
 public class SportTrousers implements Trousers {
     @Override
     public boolean hasPockets() {

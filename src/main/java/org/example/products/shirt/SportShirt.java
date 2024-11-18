@@ -2,6 +2,8 @@ package org.example.products.shirt;
 
 import org.example.products.Shirt;
 
+//autor Imanol Sanchez Taneco
+
 public class SportShirt implements Shirt {
 
     @Override

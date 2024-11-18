@@ -1,5 +1,7 @@
 package org.example.products;
 
+//autor Imanol Sanchez Taneco
+
 public interface Shoe {
 
     //Metodo para desiganar si los zapatos son elegantes

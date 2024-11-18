@@ -8,6 +8,8 @@ import org.example.products.shirt.SportShirt;
 import org.example.products.shoe.SportShoe;
 import org.example.products.trousers.SportTrousers;
 
+//autor Imanol Sanchez Taneco
+
 public class SportClothesFactory implements ClothesFactory {
     @Override
     public Shoe createShoes() {

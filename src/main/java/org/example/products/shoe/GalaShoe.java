@@ -2,6 +2,8 @@ package org.example.products.shoe;
 
 import org.example.products.Shoe;
 
+//autor Imanol Sanchez Taneco
+
 public class GalaShoe implements Shoe {
 
     @Override

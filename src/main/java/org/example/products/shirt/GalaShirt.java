@@ -2,6 +2,8 @@ package org.example.products.shirt;
 
 import org.example.products.Shirt;
 
+//autor Imanol Sanchez Taneco
+
 public class GalaShirt  implements Shirt {
     @Override
     public boolean hasLongSleeves() {
